@@ -1,4 +1,4 @@
-svndumpmultitool.
+svndumpmultitool
 ====================
 
 Tool for filtering, fixing, breaking, and munging SVN dump files.
@@ -13,7 +13,7 @@ file's structure and output the same dump file to stdout.
 Dependencies
 ------------
 - Python v2.7.x
-- Subversion v1.6 or higher
+- Subversion v1.7 or higher
 - Subversion API SWIG bindings for Python (NOT the pysvn library)
 - mock (to run the tests)
 
